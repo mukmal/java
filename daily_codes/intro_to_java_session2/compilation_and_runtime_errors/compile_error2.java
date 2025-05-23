@@ -1,0 +1,1 @@
+class core2web{
